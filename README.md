@@ -3,7 +3,7 @@
 **Descrição da biblioteca:**<br>
 Os *Backup Registers* são dez registradores de 16 bits usados para armazenar 20 bytes de dados do aplicativo do usuário quando a alimentação (Vdd) não está presente.
 A biblioteca permite a fácil operação dos registradores de backup (*Backup registers*) do STM32, como escrita, leitura e apagamento.
-Esta biblioteca também está documentada em [vídeo](https://youtu.be/B3UiPsuIEuk), além disso, um exemplo de aplicação pode ser baixado [aqui](https://github.com/delpitec/C_STM32_Youtube_Codigos/tree/BackupRegisterExemplo).
+Esta biblioteca também está documentada em [vídeo](https://youtu.be/B3UiPsuIEuk), além disso, um exemplo de aplicação pode ser baixado [aqui](https://github.com/delpitec/C_STM32_Exemplo_LibOperacoesBackupRegister).
 
 &nbsp;<br>
 
